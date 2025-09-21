@@ -49,7 +49,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-### APP.js
+### App.js
 ```
 import React, { useState } from 'react'; 
 import './App.css';
@@ -104,7 +104,7 @@ function App() {
 
 export default App;
 ```
-### APP.css
+### App.css
 ```
 .calculator {
   max-width: 320px;
